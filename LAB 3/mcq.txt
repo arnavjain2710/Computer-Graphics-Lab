@@ -1,0 +1,14 @@
+Question 1  
+option A) [5, 7, 9]  
+
+Question 2  
+option D) Both A and B  
+
+Question 3  
+option A) np.sqrt()  
+
+Question 4  
+option A) Adding two arrays of different shapes automatically  
+
+Question 5  
+option A) Computes the sum of each column
